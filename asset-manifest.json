@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NalessoAxel/react-clicker/static/css/main.c886df53.chunk.css",
+    "main.js": "/NalessoAxel/react-clicker/static/js/main.57c21901.chunk.js",
+    "main.js.map": "/NalessoAxel/react-clicker/static/js/main.57c21901.chunk.js.map",
+    "runtime-main.js": "/NalessoAxel/react-clicker/static/js/runtime-main.71fdc57f.js",
+    "runtime-main.js.map": "/NalessoAxel/react-clicker/static/js/runtime-main.71fdc57f.js.map",
+    "static/js/2.c3e2a255.chunk.js": "/NalessoAxel/react-clicker/static/js/2.c3e2a255.chunk.js",
+    "static/js/2.c3e2a255.chunk.js.map": "/NalessoAxel/react-clicker/static/js/2.c3e2a255.chunk.js.map",
+    "static/js/3.a1e018e1.chunk.js": "/NalessoAxel/react-clicker/static/js/3.a1e018e1.chunk.js",
+    "static/js/3.a1e018e1.chunk.js.map": "/NalessoAxel/react-clicker/static/js/3.a1e018e1.chunk.js.map",
+    "index.html": "/NalessoAxel/react-clicker/index.html",
+    "static/css/main.c886df53.chunk.css.map": "/NalessoAxel/react-clicker/static/css/main.c886df53.chunk.css.map",
+    "static/js/2.c3e2a255.chunk.js.LICENSE.txt": "/NalessoAxel/react-clicker/static/js/2.c3e2a255.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NalessoAxel/react-clicker/static/media/level_3.7a63ad16.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71fdc57f.js",
+    "static/js/2.c3e2a255.chunk.js",
+    "static/css/main.c886df53.chunk.css",
+    "static/js/main.57c21901.chunk.js"
+  ]
+}
